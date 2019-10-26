@@ -21,7 +21,7 @@ import com.vaadin.v7.ui.TextField;
  * Similarly named field by naming convention or customized
  * with @PropertyId annotation.
  */
-public class ContactForm extends FormLayout {
+public class ContactForm extends FormLayout 
 
     Button save = new Button("Save", this::save);
     Button cancel = new Button("Cancel", this::cancel);
