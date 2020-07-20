@@ -7,7 +7,7 @@ import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
 
-@this is for testing
+
 public class TestHexAsciiConversion {
 
 	HexAsciiConvertor conversion=new HexAsciiConvertor();
