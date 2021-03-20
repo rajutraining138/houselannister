@@ -6,7 +6,7 @@ import com.edurekademo.utilities.LoggerStackTraceUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class ExceptionThrower 
+public class ExceptionThrower {
 
         private static final Logger LOG=LoggerFactory.getLogger(ExceptionThrower.class);
         public void getCounter() { 
